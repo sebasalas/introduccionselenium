@@ -104,10 +104,10 @@ dist
 .tern-port
 
 # Chromedriver (Selenium)
-.chromedriver/
+chromedriver/
 
 # Chromedriver (Selenium)
-.reports/
+reports/
 
 # Planillas
 *.csv
